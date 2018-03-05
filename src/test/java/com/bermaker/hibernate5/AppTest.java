@@ -1,4 +1,4 @@
-package com.bermaker.hibernate4;
+package com.bermaker.hibernate5;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

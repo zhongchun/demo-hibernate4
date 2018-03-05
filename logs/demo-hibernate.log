@@ -1,0 +1,91 @@
+2018-03-05 12:10:16,965 INFO main (Version.java:37) - HHH000412: Hibernate Core {5.1.10.Final}
+2018-03-05 12:10:16,984 INFO main (Environment.java:213) - HHH000206: hibernate.properties not found
+2018-03-05 12:10:16,986 INFO main (Environment.java:317) - HHH000021: Bytecode provider name : javassist
+2018-03-05 12:10:17,050 INFO main (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-03-05 12:10:17,204 INFO main (Dialect.java:156) - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2018-03-05 12:10:17,653 INFO main (PojoInstantiator.java:47) - HHH000182: No default (no-argument) constructor for class: com.bermaker.hibernate5.domain.Spittle (class must be instantiated by Interceptor)
+2018-03-05 12:10:17,744 INFO main (PojoInstantiator.java:47) - HHH000182: No default (no-argument) constructor for class: com.bermaker.hibernate5.domain.Spitter (class must be instantiated by Interceptor)
+2018-03-05 12:11:05,250 INFO main (Version.java:37) - HHH000412: Hibernate Core {5.1.10.Final}
+2018-03-05 12:11:05,254 INFO main (Environment.java:213) - HHH000206: hibernate.properties not found
+2018-03-05 12:11:05,257 INFO main (Environment.java:317) - HHH000021: Bytecode provider name : javassist
+2018-03-05 12:11:05,316 INFO main (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-03-05 12:11:05,467 INFO main (Dialect.java:156) - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2018-03-05 12:11:05,933 INFO main (PojoInstantiator.java:47) - HHH000182: No default (no-argument) constructor for class: com.bermaker.hibernate5.domain.Spittle (class must be instantiated by Interceptor)
+2018-03-05 12:11:38,535 INFO main (Version.java:37) - HHH000412: Hibernate Core {5.1.10.Final}
+2018-03-05 12:11:38,538 INFO main (Environment.java:213) - HHH000206: hibernate.properties not found
+2018-03-05 12:11:38,540 INFO main (Environment.java:317) - HHH000021: Bytecode provider name : javassist
+2018-03-05 12:11:38,580 INFO main (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-03-05 12:11:38,681 INFO main (Dialect.java:156) - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2018-03-05 12:11:39,111 INFO main (PojoInstantiator.java:47) - HHH000182: No default (no-argument) constructor for class: com.bermaker.hibernate5.domain.Spittle (class must be instantiated by Interceptor)
+2018-03-05 14:36:24,955 INFO main (Version.java:37) - HHH000412: Hibernate Core {5.1.10.Final}
+2018-03-05 14:36:24,959 INFO main (Environment.java:213) - HHH000206: hibernate.properties not found
+2018-03-05 14:36:24,961 INFO main (Environment.java:317) - HHH000021: Bytecode provider name : javassist
+2018-03-05 14:36:25,028 INFO main (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-03-05 14:36:25,217 INFO main (Dialect.java:156) - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2018-03-05 14:36:25,794 INFO main (PojoInstantiator.java:47) - HHH000182: No default (no-argument) constructor for class: com.bermaker.hibernate5.domain.Spittle (class must be instantiated by Interceptor)
+2018-03-05 14:40:43,415 INFO main (Version.java:37) - HHH000412: Hibernate Core {5.1.10.Final}
+2018-03-05 14:40:43,419 INFO main (Environment.java:213) - HHH000206: hibernate.properties not found
+2018-03-05 14:40:43,421 INFO main (Environment.java:317) - HHH000021: Bytecode provider name : javassist
+2018-03-05 14:40:43,478 INFO main (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-03-05 14:40:43,616 INFO main (Dialect.java:156) - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2018-03-05 14:40:44,074 INFO main (PojoInstantiator.java:47) - HHH000182: No default (no-argument) constructor for class: com.bermaker.hibernate5.domain.Spittle (class must be instantiated by Interceptor)
+2018-03-05 14:42:26,519 INFO main (Version.java:37) - HHH000412: Hibernate Core {5.1.10.Final}
+2018-03-05 14:42:26,523 INFO main (Environment.java:213) - HHH000206: hibernate.properties not found
+2018-03-05 14:42:26,524 INFO main (Environment.java:317) - HHH000021: Bytecode provider name : javassist
+2018-03-05 14:42:26,585 INFO main (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-03-05 14:42:26,723 INFO main (Dialect.java:156) - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2018-03-05 14:42:27,188 INFO main (PojoInstantiator.java:47) - HHH000182: No default (no-argument) constructor for class: com.bermaker.hibernate5.domain.Spittle (class must be instantiated by Interceptor)
+2018-03-05 14:43:37,041 INFO main (Version.java:37) - HHH000412: Hibernate Core {5.1.10.Final}
+2018-03-05 14:43:37,047 INFO main (Environment.java:213) - HHH000206: hibernate.properties not found
+2018-03-05 14:43:37,049 INFO main (Environment.java:317) - HHH000021: Bytecode provider name : javassist
+2018-03-05 14:43:37,112 INFO main (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-03-05 14:43:37,258 INFO main (Dialect.java:156) - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2018-03-05 14:43:37,724 INFO main (PojoInstantiator.java:47) - HHH000182: No default (no-argument) constructor for class: com.bermaker.hibernate5.domain.Spittle (class must be instantiated by Interceptor)
+2018-03-05 14:44:09,043 INFO main (Version.java:37) - HHH000412: Hibernate Core {5.1.10.Final}
+2018-03-05 14:44:09,050 INFO main (Environment.java:213) - HHH000206: hibernate.properties not found
+2018-03-05 14:44:09,052 INFO main (Environment.java:317) - HHH000021: Bytecode provider name : javassist
+2018-03-05 14:44:09,177 INFO main (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-03-05 14:44:09,375 INFO main (Dialect.java:156) - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2018-03-05 14:44:09,842 INFO main (PojoInstantiator.java:47) - HHH000182: No default (no-argument) constructor for class: com.bermaker.hibernate5.domain.Spittle (class must be instantiated by Interceptor)
+2018-03-05 14:47:15,477 INFO main (Version.java:37) - HHH000412: Hibernate Core {5.1.10.Final}
+2018-03-05 14:47:15,484 INFO main (Environment.java:213) - HHH000206: hibernate.properties not found
+2018-03-05 14:47:15,486 INFO main (Environment.java:317) - HHH000021: Bytecode provider name : javassist
+2018-03-05 14:47:15,550 INFO main (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-03-05 14:47:15,705 INFO main (Dialect.java:156) - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2018-03-05 14:47:16,200 INFO main (PojoInstantiator.java:47) - HHH000182: No default (no-argument) constructor for class: com.bermaker.hibernate5.domain.Spittle (class must be instantiated by Interceptor)
+2018-03-05 14:53:12,232 INFO main (Version.java:37) - HHH000412: Hibernate Core {5.1.10.Final}
+2018-03-05 14:53:12,236 INFO main (Environment.java:213) - HHH000206: hibernate.properties not found
+2018-03-05 14:53:12,238 INFO main (Environment.java:317) - HHH000021: Bytecode provider name : javassist
+2018-03-05 14:53:12,302 INFO main (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-03-05 14:53:12,479 INFO main (Dialect.java:156) - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2018-03-05 14:53:12,975 INFO main (PojoInstantiator.java:47) - HHH000182: No default (no-argument) constructor for class: com.bermaker.hibernate5.domain.Spittle (class must be instantiated by Interceptor)
+2018-03-05 15:47:38,325 INFO main (Version.java:37) - HHH000412: Hibernate Core {5.1.10.Final}
+2018-03-05 15:47:38,330 INFO main (Environment.java:213) - HHH000206: hibernate.properties not found
+2018-03-05 15:47:38,332 INFO main (Environment.java:317) - HHH000021: Bytecode provider name : javassist
+2018-03-05 15:47:38,388 INFO main (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-03-05 15:47:38,532 INFO main (Dialect.java:156) - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2018-03-05 15:48:34,261 INFO main (Version.java:37) - HHH000412: Hibernate Core {5.1.10.Final}
+2018-03-05 15:48:34,265 INFO main (Environment.java:213) - HHH000206: hibernate.properties not found
+2018-03-05 15:48:34,266 INFO main (Environment.java:317) - HHH000021: Bytecode provider name : javassist
+2018-03-05 15:48:34,306 INFO main (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-03-05 15:48:34,402 INFO main (Dialect.java:156) - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2018-03-05 15:49:15,641 INFO main (Version.java:37) - HHH000412: Hibernate Core {5.1.10.Final}
+2018-03-05 15:49:15,645 INFO main (Environment.java:213) - HHH000206: hibernate.properties not found
+2018-03-05 15:49:15,647 INFO main (Environment.java:317) - HHH000021: Bytecode provider name : javassist
+2018-03-05 15:49:15,688 INFO main (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-03-05 15:49:15,776 INFO main (Dialect.java:156) - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2018-03-05 15:49:57,730 INFO main (Version.java:37) - HHH000412: Hibernate Core {5.1.10.Final}
+2018-03-05 15:49:57,735 INFO main (Environment.java:213) - HHH000206: hibernate.properties not found
+2018-03-05 15:49:57,736 INFO main (Environment.java:317) - HHH000021: Bytecode provider name : javassist
+2018-03-05 15:49:57,777 INFO main (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-03-05 15:49:57,884 INFO main (Dialect.java:156) - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2018-03-05 15:50:05,112 INFO main (Version.java:37) - HHH000412: Hibernate Core {5.1.10.Final}
+2018-03-05 15:50:05,115 INFO main (Environment.java:213) - HHH000206: hibernate.properties not found
+2018-03-05 15:50:05,117 INFO main (Environment.java:317) - HHH000021: Bytecode provider name : javassist
+2018-03-05 15:50:05,161 INFO main (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-03-05 15:50:05,252 INFO main (Dialect.java:156) - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2018-03-05 15:50:12,841 INFO main (Version.java:37) - HHH000412: Hibernate Core {5.1.10.Final}
+2018-03-05 15:50:12,845 INFO main (Environment.java:213) - HHH000206: hibernate.properties not found
+2018-03-05 15:50:12,846 INFO main (Environment.java:317) - HHH000021: Bytecode provider name : javassist
+2018-03-05 15:50:12,887 INFO main (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-03-05 15:50:12,988 INFO main (Dialect.java:156) - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
